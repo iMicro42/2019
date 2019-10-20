@@ -50,9 +50,11 @@ for x in returnList:
         print(' '.join(x))
 
 '''
+
 End of code!
 Date started: 10/19/2019
 Date ended: 10/19/2019
 Time spent: 1.5 hours
 Codeforces problem: 1244A
+
 '''
