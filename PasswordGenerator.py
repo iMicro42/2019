@@ -10,3 +10,4 @@ for x in range(20):
 x = ''.join(passwordOut)
 
 print(x)
+
