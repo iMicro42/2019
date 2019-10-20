@@ -24,3 +24,4 @@ ordinal.c - School assignment.
 -------------------------------------
 
 That's all folks!
+
