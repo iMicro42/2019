@@ -32,3 +32,4 @@ for letter in plainText: # <-- loops through every letter in the plainText
 
 encryptedSentence = ''.join(tempEncryptedSentence) # <-- joins the encrypted sentence back into the form it was passed in
 print("Your encrypted sentence has been shifted {} units to the {} > ".format(key,keyRL) + encryptedSentence)
+
