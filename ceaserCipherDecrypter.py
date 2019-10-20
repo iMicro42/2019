@@ -38,4 +38,3 @@ elif keyRL == 'left':
     keyRL = 'right'
 
 print("Your sentence has been decrypted by being shifted {} units to the {} > ".format(key,keyRL) + encryptedSentence)
-
