@@ -17,7 +17,7 @@ playfair2.py - As a follow up to my first "AMAZING" "UNBREAKABLE" encryption sof
 
 PasswordGenerator.py - Just a password generator that uses 66 different characters and random function. I often use this with my outdated Encryptor...
 
-color.c, nearest.c, pensPencils.py, 2048.py - Codeforces problems.
+color.c, nearest.c, pensPencils.py, 2048.py, Stones.c - Codeforces problems.
 
 ordinal.c - School assignment.
 
